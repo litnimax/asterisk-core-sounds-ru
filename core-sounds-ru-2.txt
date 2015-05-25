@@ -1,18 +1,18 @@
 ; Core Asterisk Sounds in Russian
-agent-alreadyon: That agent is already logged on.  Please enter your agent number followed by the pound key.
-agent-incorrect: Login incorrect.  Please enter your agent number followed by the pound key.
-agent-loggedoff: Agent Logged off.
-agent-loginok: Agent logged in.
-agent-newlocation: Please enter a new extension, followed by pound.
-agent-pass: Please enter your password followed by the pound key.
-agent-user: Agent login.  Please enter your agent number followed by the pound key.
+agent-alreadyon: Этот оператор уже зарегистрирован.  Введите номер оператора и нажмите решетку.
+agent-incorrect: Ошибка регистрации. Введите номер оператора и нажмите решетку.
+agent-loggedoff: Регистрация оператора удалена.
+agent-loginok: Оператор зарегистрирован.
+agent-newlocation: Наберите новый номер и нажмите решётку.
+agent-pass: Введите  пароль  и нажмите решетку.
+agent-user: Регистрация оператора. Введите номер оператора и нажмите решетку.
 ascending-2tone: [ascending tones]
-auth-incorrect: Password incorrect.  Please enter your password followed by the pound key.
-auth-thankyou: Thank you.
-basic-pbx-ivr-main: Thank you for calling Super Awesome Company, Waldo's premier provider of perfect products. If you know your party's extension, you may dial it at any time. To establish a sales partnership, press one. To speak with a customer advocate, press two. For accounting and other receivables, press three. For a company directory, press four. For an operator, press zero.
+auth-incorrect: Пароль неверен. Введите пароль и нажмите решетку.
+auth-thankyou: Спасибо.
+basic-pbx-ivr-main: Благодарим за звонок в компанию Рога и Копыта, мирового поставщика сырья для колбас и прочих мясных изделий. Если Вы знаете номер сотрудника, введите его в любой момент в тоновом режиме. Для связи с отделом продаж, нажмите 1. Для соединения с технической поддержкой, нажмите 2. Для связи с финансовым отделом, нажмите 3. Для перехода в каталог сотрудников, нажмите 4. Для связи с оператором, нажмите 0. 
 beeperr: [this is an error beep tone]
 beep: [this is a simple beep tone]
-conf-adminmenu-162: Please press 1 to mute or unmute yourself, 2 to lock or unlock the conference, 3 to eject the last user, 4 or 6 to decrease or increase the conference volume, 5 to extend the conference, 7 or 9 to decrease or increase your volume, or 8 to exit.
+conf-adminmenu-162: Нажмите 1, чтобы включить или выключить свой микрофон, 2 - чтобы заблокировать или разблокировать конференцию, 3 - чтобы удалить из конференции последнего вошедшего, 4 или 6 - для уменьшения или увеличения уровня громкости звука, 5 - чтобы расширить конференцию, 7 или 9 - для уменьшения или увеличения громкости Вашего голоса, или 8 - для выхода из конференции.
 conf-adminmenu-18: Please press 1 to mute or unmute yourself, 2 to lock or unlock the conference, 3 to eject the last user, 4 or 6 to decrease or increase the conference volume, 5 to extend the conference, 7 or 9 to decrease or increase your volume, or 8 for more options.
 conf-adminmenu-menu8: Press 1 to list users currently in the conference, 2 to kick all non-administrator users, 3 to mute or umute all non-administrator users, 4 to record this conference, or 8 to exit this menu and return to the conference.
 conf-adminmenu: Please press 1 to mute or unmute yourself, 2 to lock or unlock the conference, 3 to eject the last user, 4 or 6 to decrease or increase the conference volume, 7 or 9 to decrease or increase your volume, or 8 to exit.
